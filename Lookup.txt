@@ -160,4 +160,3 @@ SWS_Vans_RV14=Vans RV-14/14A [SimWorks Studios]
 SWS_Vans_RV14A=Vans RV-14/14A [SimWorks Studios]
 Wedell-Williams-Racer=Wedell-Williams Model 44 [sal1800]
 wing42-boeing-247d=Boeing 247D [Wing42]
-Another test

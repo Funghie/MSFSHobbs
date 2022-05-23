@@ -1,4 +1,4 @@
-#Aircraft Database Version=0027
+#Aircraft Database Version=0028
 A320neo_LJA=Airbus A320 Neo [Asobo]
 A6M5_ZERO=Mitsubishi A6M5 Zero [Fsadni]
 ac500shrike_rik=Rockwell Aero Commander 500s Shrike [Don Fanucci]

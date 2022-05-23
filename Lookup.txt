@@ -1,4 +1,4 @@
-#Aircraft Database Version=0028
+#Aircraft Database Version=0029
 A320neo_LJA=Airbus A320 Neo [Asobo]
 A6M5_ZERO=Mitsubishi A6M5 Zero [Fsadni]
 ac500shrike_rik=Rockwell Aero Commander 500s Shrike [Don Fanucci]
@@ -232,6 +232,7 @@ h125=Airbus H125 | Helicopter [Rotorsim Pilot]
 H135-GAL=Airbus H135 | Helicopter [Hype Performance Group]
 H135-ROYAL_MAIL=Airbus H135 | Helicopter [Hype Performance Group]
 H135_AIRWOLF=Airbus H135 | Helicopter [Hype Performance Group]
+H135_BW-D-HABS=Airbus H135 | Helicopter [Hype Performance Group]
 H135_BW-D-HABU=Airbus H135 | Helicopter [Hype Performance Group]
 H135_Jurassic_Park=Airbus H135 | Helicopter [Hype Performance Group]
 H135_Jurassic_Park_Explorer=Airbus H135 | Helicopter [Hype Performance Group]

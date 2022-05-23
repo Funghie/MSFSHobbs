@@ -1,3 +1,4 @@
+Aircraft Database Version=0024
 A320neo_LJA=Airbus A320 Neo [Asobo]
 aerosoar-optica=EA-7 Edgley Optica [Aerosoar]
 Aerosoft_crj-700-QantasLink=Bombardier CRJ Series [Aerosoft]

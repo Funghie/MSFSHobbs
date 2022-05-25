@@ -1,4 +1,4 @@
-#Aircraft Database Version=0039
+#Aircraft Database Version=0040
 A320neo_LJA=Airbus A320 Neo [Asobo]
 A6M5_ZERO=Mitsubishi A6M5 Zero [Fsadni]
 ac500shrike_rik=Rockwell Aero Commander 500s Shrike [Don Fanucci]
@@ -248,7 +248,6 @@ Carenado_M20R_Ovation_Copper=Mooney M20R Ovation [Carenado]
 Carenado_M20R_SlateRed=Mooney M20R Ovation [Carenado]
 Carenado_PA28_Arrow_III=Piper PA-28 Arrow III [Carenado]
 Carenado_PA34_Seneca_V=Piper PA-34 Seneca V [Carenado]
-Carenado_PA44_Seminole=Piper PA-44 Seminole [Carenado]
 Carenado_PA44_Seminole=Piper PA-44 Seminole [Carenado]
 Carenado_PA44_Seminole_N338AT=Piper PA-44 Seminole [Carenado]
 Carenado_WYMF5=WYMF5 [Carenado]

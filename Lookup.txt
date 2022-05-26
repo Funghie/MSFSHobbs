@@ -1,4 +1,4 @@
-#Aircraft Database Version=0041
+#Aircraft Database Version=0042
 A320neo_LJA=Airbus A320 Neo [Asobo]
 A6M5_ZERO=Mitsubishi A6M5 Zero [Fsadni]
 ac500shrike_rik=Rockwell Aero Commander 500s Shrike [Don Fanucci]
@@ -276,6 +276,7 @@ FlyByWire_A320_NEO=A320 Neo (A32NX) [Flybywire]
 FlyByWire_A320_NEO_RAF GREY=Airbus A320 Neo (A32NX) [Flybywire]
 flyingiron_p38l=P-38 Lightning [Flying Iron Simulations]
 flyingiron_spitfire=Supermarine Spitfire L.F Mk IXc [Flying Iron Simulations]
+flyingiron_spitfirecw=Supermarine Spitfire L.F Mk IXc [Flying Iron Simulations]
 flysimware_Cessna_414A=Cessna 414A [FlySimWare]
 Flysimware_Grumman_G44A=Grumman G44A Widgeon [Flysimware]
 FokkerDR1=Fokker DR.1 [Mykrode]

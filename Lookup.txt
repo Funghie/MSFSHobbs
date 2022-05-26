@@ -1,4 +1,4 @@
-#Aircraft Database Version=0040
+#Aircraft Database Version=0041
 A320neo_LJA=Airbus A320 Neo [Asobo]
 A6M5_ZERO=Mitsubishi A6M5 Zero [Fsadni]
 ac500shrike_rik=Rockwell Aero Commander 500s Shrike [Don Fanucci]
@@ -113,9 +113,8 @@ Asobo_DR400=Robin DR400 [Asobo]
 Asobo_Dranbar_DR400=Robin DR400-180 [Asobo]
 Asobo_DV20=Diamond DV20 [Asobo]
 Asobo_E330=Extra E330LT [Asobo]
-Asobo_FA18E=McDonell Douglas F/A-18E [Asobo]
-Asobo_FA18E=McDonnell Douglas F/A-18 Hornet [ASOBO]
-Asobo_FA18E_SW=McDonell Douglas F/A-18E [Asobo]
+Asobo_FA18E=McDonnell Douglas F/A-18E [Asobo]
+Asobo_FA18E_SW=McDonnell Douglas F/A-18E [Asobo]
 Asobo_FlightDesignCT=FlightDesign CTLS [Asobo]
 Asobo_H135_DHFS=Airbus H135 | Helicopter [Hype Performance Group]
 Asobo_H135_FPOPS738=Airbus H135 | Helicopter [Hype Performance Group]

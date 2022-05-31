@@ -1,4 +1,4 @@
-#Aircraft Database Version=0044
+#Aircraft Database Version=0045
 A320neo_LJA=Airbus A320 Neo [Asobo]
 A6M5_ZERO=Mitsubishi A6M5 Zero [Fsadni]
 ac500shrike_rik=Rockwell Aero Commander 500s Shrike [Don Fanucci]
@@ -80,6 +80,7 @@ Asobo_Baron_G58_50th_10-12=Beechcraft / Textron Baron G58 [Asobo]
 Asobo_Baron_G58_50th_5-12=Beechcraft / Textron Baron G58 [Asobo]
 Asobo_Baron_G58_50th_8-12=Beechcraft / Textron Baron G58 [Asobo]
 Asobo_Baron_G58_Livery_Kenmore=Beechcraft / Textron Baron G58 [Asobo]
+Asobo_Bonanza_G36 old=Beechcraft Bonanza G36 [Asobo]
 Asobo_Bonanza_G36-BLUX=Beechcraft Bonanza G36 [Asobo]
 Asobo_Bonanza_G36-REDX=Beechcraft Bonanza G36 [Asobo]
 Asobo_Bonanza_G36=Beechcraft Bonanza G36 [Asobo]

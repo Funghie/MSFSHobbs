@@ -1,4 +1,5 @@
-#Aircraft Database Version=0056
+#Aircraft Database Version=0057
+1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [MilViz]
 A1R Ryan ST-A Special=Ryan ST-A Special [A1R Design Bureau]
 a1rdesignbureau-ryan-sta-special_NACA96=Ryan ST-A Special [A1R Design Bureau]
@@ -455,8 +456,8 @@ flyingiron_spitfirecw=Supermarine Spitfire L.F Mk IXc [Flying Iron Simulations]
 flyingiron_spitfire_PoC417=Supermarine Spitfire L.F Mk IXc [Flying Iron Simulations]
 flysimware_Cessna_414A=Cessna 414A [FlySimWare]
 Flysimware_Grumman_G44A=Grumman G44A Widgeon [Flysimware]
-fnx320=Airbus A320-200 [Fenix Simulations]
 FNX320=Airbus A320-200 [Fenix Simulations]
+fnx320=Airbus A320-200 [Fenix Simulations]
 FokkerDR1=Fokker DR.1 [Mykrode]
 Fouga_Magister=Fouga CM.170 Magister [AzurPoly]
 Frederic_Bd5j=Bede BD-5J [Fred77]

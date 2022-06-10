@@ -1,4 +1,4 @@
-#Aircraft Database Version=0060
+#Aircraft Database Version=0061
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [MilViz]
 A1R Ryan ST-A Special=Ryan ST-A Special [A1R Design Bureau]
@@ -716,6 +716,7 @@ UH60=Sikorsky UH-60M | Helicopter [DeltaSimulations / Destroyer121]
 USCG=TBM-930 [Asobo]
 Vcolb99_aircraft=Beechcraft 99 [Virtualcol FS Software]
 Vcolemb170_aircraft=Embraer EMB 170/175 Series [Virtualcol FS Software]
+Vcolemb195_aircraft=Embraer EMB 190/195 Series [Virtualcol FS Software]
 VGP_PowerSolo=PowerSTOL [VGP]
 vought crusader=Vought Crusader F8-E [Roland Laborie]
 Wedell-Williams-Racer=Wedell-Williams Model 44 [sal1800]

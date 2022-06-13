@@ -1,4 +1,4 @@
-#Aircraft Database Version=0065
+#Aircraft Database Version=0066
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [MilViz]
 A1R Ryan ST-A Special=Ryan ST-A Special [A1R Design Bureau]
@@ -313,6 +313,7 @@ Asobo_Orbis=McDonnell Douglas MD-10 Orbis Flying Eye [Asobo]
 Asobo_P51D_Reno=North American P51-D Mustang [Asobo]
 Asobo_P51D_Reno_Goldfinger=North American P51-D Mustang [Asobo]
 Asobo_P51D_Reno_LadyB=North American P51-D Mustang [Asobo]
+Asobo_Pelican=D77-TC Pelican [Asobo]
 Asobo_Pipistrel=Pipistrel Virus [Asobo]
 Asobo_Pitts=Aviat Pitts Special S2S [Asobo]
 Asobo_Pitts_LiveryTestPilot=Aviat Pitts Special S2S [Asobo]

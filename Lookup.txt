@@ -1,4 +1,4 @@
-#Aircraft Database Version=0068
+#Aircraft Database Version=0069
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [MilViz]
 A1R Ryan ST-A Special=Ryan ST-A Special [A1R Design Bureau]
@@ -593,6 +593,7 @@ hpg-airbus-h145-fire=Airbus H145 | Helicopter [Hype Performance Group]
 hpg-airbus-h145-mil=Airbus H145 | Helicopter [Hype Performance Group]
 hpg-airbus-h145=Airbus H145 | Helicopter [Hype Performance Group]
 Hunter_F6=Hawker Hunter [Dave Garwood]
+Hunter_Mk58=Hawker Hunter [Dave Garwood]
 Hurricane=Hawker Hurricane MK I [Fsadni]
 IndiaFoxtEcho_F35A=Lockheed Martin F-35 [IndiaFoxtEcho]
 IndiaFoxtEcho_F35B=Lockheed Martin F-35 [IndiaFoxtEcho]

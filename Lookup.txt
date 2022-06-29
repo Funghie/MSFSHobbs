@@ -1,4 +1,4 @@
-#Aircraft Database Version=0079
+#Aircraft Database Version=0080
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [MilViz]
 A1R Ryan ST-A Special=Ryan ST-A Special [A1R Design Bureau]
@@ -866,6 +866,7 @@ HPG_H145_REVYN112_DRF_D_HDRF=Airbus H145 | Rotorcraft [Hype Performance Group]
 HPG_H145_REVYN112_DRF_D_HDSW=Airbus H145 | Rotorcraft [Hype Performance Group]
 HPG_H145_REVYN112_DRF_D_HILF=Airbus H145 | Rotorcraft [Hype Performance Group]
 Hunter_F1=Hawker Hunter [Dave Garwood]
+Hunter_F3=Hawker Hunter [Dave Garwood]
 Hunter_F6=Hawker Hunter [Dave Garwood]
 Hunter_FGA9=Hawker Hunter [Dave Garwood]
 Hunter_FR10=Hawker Hunter [Dave Garwood]

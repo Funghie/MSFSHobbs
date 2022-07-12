@@ -1,4 +1,4 @@
-#Aircraft Database Version=0087
+#Aircraft Database Version=0088
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [MilViz]
 A10=Fairchild Republic A-10a Thunderbolt II [MScenery]
@@ -1149,6 +1149,7 @@ MB-339_RAAF_Roulettes=Aermacchi MB-339 [IndiaFoxtEcho]
 Mercedes_C63_Coupe=Mercedes C63 Coupe | Motor Vehicle [GamerDEAL]
 mg-hjet=Honda HA420 (HJet) [FlightFX]
 Microsoft_Dornier_DoJ_Cabina=Dornier Do J Wal [Microsoft]
+Microsoft_Dornier_DoJ_N25=Dornier Do J Wal [Microsoft]
 Microsoft_Dornier_DoJ_PlusUltra=Dornier Do J Wal [Microsoft]
 Microsoft_Fokker_FVIIa=Fokker F.VII [Orbx]
 Microsoft_Fokker_FVIIb_modern=Fokker F.VII [Orbx]

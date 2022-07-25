@@ -1,4 +1,4 @@
-#Aircraft Database Version=0096
+#Aircraft Database Version=0097
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [MilViz]
 A10=Fairchild Republic A-10a Thunderbolt II [MScenery]

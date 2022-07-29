@@ -1,4 +1,4 @@
-#Aircraft Database Version=0099
+#Aircraft Database Version=0100
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [MilViz]
 A10=Fairchild Republic A-10a Thunderbolt II [MScenery]
@@ -1543,6 +1543,7 @@ snowexplorer=Hot Wheels Snow Explorer [giba720]
 SNOWPIERCER=CubCrafters X Cub | Bush [CarbonProp]
 SOP_Triplane=Sopwith Triplane [Fsadni]
 Souricette=Aurore MB 02 Souricette [Oldpat]
+Souricette_MB02=Aurore MB 02 Souricette [Oldpat]
 spit-pv181=Supermarine Spitfire L.F Mk IXc [Flying Iron Simulations]
 spitfire=Supermarine Spitfire Mk.Vb [Flight Sim Squadron]
 SPS_767_300F_Winglets=Boeing 767-300F [SPS]

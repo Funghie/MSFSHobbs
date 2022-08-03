@@ -1,4 +1,4 @@
-#Aircraft Database Version=0101
+#Aircraft Database Version=0102
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [MilViz]
 A10=Fairchild Republic A-10a Thunderbolt II [MScenery]
@@ -1106,6 +1106,7 @@ FR_L-4H_Grasshopper_air_observation=Piper L-4 Grasshopper [Flight Replicas]
 FR_L-4H_Grasshopper_liaison=Piper L-4 Grasshopper [Flight Replicas]
 fsreborn-sting-s4=TL-Ultralight Sting S4 [FSReborn]
 FSX_Edgley Optica=EA-7 Edgley Optica [Brandon Yaeger]
+fulcrum=Gurevich MiG 29 Fulcrum [Deimos Inc]
 g164-b-simobject=Grumman G164-B [KR Customs]
 g36-skyking=Beechcraft Bonanza G36 [Asobo]
 GAS-Kinner-B-2-Sportwing=Kinner B-2 Sportwing [Golden Age Simulations]

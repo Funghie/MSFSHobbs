@@ -1,4 +1,4 @@
-#Aircraft Database Version=0102
+#Aircraft Database Version=0103
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [MilViz]
 A10=Fairchild Republic A-10a Thunderbolt II [MScenery]
@@ -1158,6 +1158,7 @@ HBFKS=Pilatus PC-6 Porter [MilViz]
 hcg-mosquito-xe=Mosquito Aviation XE [HCG]
 hcg-mosquito-xel=Mosquito Aviation XE [HCG]
 HCG_Cabri=Guimbal Cabri G2 | Rotorcraft [HCG]
+hcg_cabri_utility=Guimbal Cabri G2 | Rotorcraft [HCG]
 headwind-a330neo_DHL=Airbus A330-900 Neo [Headwind]
 headwind-a330neo_EDELWEISS=Airbus A330-900 Neo [Headwind]
 headwind-a330neo_MEA=Airbus A330-900 Neo [Headwind]

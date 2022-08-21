@@ -1,4 +1,4 @@
-#Aircraft Database Version=0103
+#Aircraft Database Version=0104
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [MilViz]
 A10=Fairchild Republic A-10a Thunderbolt II [MScenery]
@@ -800,6 +800,8 @@ bigradials-aircraft-n17=Nieuport 17 [Big Radials]
 bksq-aircraft-analogcaravan=Cessna C208B Grand Caravan | Steam Gauge Analog Overhaul [Black Square]
 bksq-aircraft-velocityxl=Velocity XL [Black Square]
 blackbox-aircraft-BN-Islander-CARGO=BN2 Islander [BlackBox Simulation]
+blackbox-aircraft-BN-Islander-LN=BN2 Islander [BlackBox Simulation]
+blackbox-aircraft-BN-Islander-MAR=BN2 Islander [BlackBox Simulation]
 blackbox-aircraft-BN-Islander-MIL=BN2 Islander [BlackBox Simulation]
 blackbox-aircraft-BN-Islander-PAX=BN2 Islander [BlackBox Simulation]
 blackbox-aircraft-BN-Islander-stewartisland=BN2 Islander [BlackBox Simulation]

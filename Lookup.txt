@@ -1,4 +1,4 @@
-#Aircraft Database Version=0111
+#Aircraft Database Version=0111.5
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [MilViz]
 A10=Fairchild Republic A-10a Thunderbolt II [MScenery]
@@ -1392,7 +1392,7 @@ Milviz_PC6_India_VT-JSM=Pilatus PC-6 Porter [MilViz]
 Milviz_PC6_Tundra=Pilatus PC-6 Porter [MilViz]
 Mitsubishi_PAJERO=Mitsubishi Pajero | Motor Vehicle [MrFace]
 Monster_NXCub=CubCrafters Monster NX Cub [Got Gravel]
-MRF1=Dassault Mirage F1 MRF1 [Publisher Name]
+MRF1=Dassault Mirage F1 MRF1 [faf_Alex]
 MRLN=CubCrafters X Cub | Bush [CarbonProp]
 MSCarenado_D17_Staggerwing=Beechcraft Model 17 Staggerwing [Carenado]
 MSCarenado_D18S=Beechcraft Model D18S Twin Beech [Microsoft]

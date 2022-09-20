@@ -1,4 +1,4 @@
-#Aircraft Database Version=0111.5
+#Aircraft Database Version=0112
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [MilViz]
 A10=Fairchild Republic A-10a Thunderbolt II [MScenery]
@@ -753,6 +753,8 @@ Atsimulations_CriCri_Floats=MC-15 Cri-Cri [ATSimulations]
 Atsimulations_CriCri_Jet=MC-15 Cri-Cri [ATSimulations]
 azurpoly-tb30=Socata TB-30 Epsilon [AzurPoly]
 b25-mitchell=North American B-25 Mitchell [Flight Sim Squadron]
+b47 floats=Bell 47G [Flyinside]
+b47=Bell 47G [Flyinside]
 B4_AIRCRAFT=Pilatus B-4 | Glider [Digital Jonx]
 B737_800=Boeing 737-800 (B73X Project) [FlightMan100]
 B737_800_V7.0=Boeing 737-800 (B73X Project) [FlightMan100]

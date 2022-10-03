@@ -1,4 +1,4 @@
-#Aircraft Database Version=0115
+#Aircraft Database Version=0116
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [MilViz]
 A10=Fairchild Republic A-10a Thunderbolt II [MScenery]
@@ -1231,6 +1231,7 @@ IndiaFoxtEcho_F35A=Lockheed Martin F-35 [IndiaFoxtEcho]
 IndiaFoxtEcho_F35B=Lockheed Martin F-35 [IndiaFoxtEcho]
 IndiaFoxtEcho_F35C=Lockheed Martin F-35 [IndiaFoxtEcho]
 Indiafoxtecho_LongEZ=Rutan Model 61 Long-EZ [IndiaFoxtEcho]
+IndiaFoxtEcho_M346=Aermacchi M-346 Master [IndiaFoxtEcho]
 IndiaFoxtEcho_MB339A=Aermacchi MB-339 [IndiaFoxtEcho]
 IndiaFoxtEcho_MB339AMLU=Aermacchi MB-339 [IndiaFoxtEcho]
 IndiaFoxtEcho_MB339PAN=Aermacchi MB-339 [IndiaFoxtEcho]

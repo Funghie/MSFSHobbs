@@ -1,4 +1,4 @@
-#Aircraft Database Version=0125
+#Aircraft Database Version=0126
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 A10=Fairchild Republic A-10a Thunderbolt II [MScenery]
@@ -1722,3 +1722,4 @@ ZKMCT=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 ZKXIT=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 ZSPCS Clean=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 ZSPCS=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
+MV22B-Osprey=Bell Boeing MV-22B Osprey [Miltech]

@@ -1,4 +1,4 @@
-#Aircraft Database Version=0128
+#Aircraft Database Version=0129
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 A10=Fairchild Republic A-10a Thunderbolt II [MScenery]
@@ -841,6 +841,7 @@ bigradials-aircraft-n17=Nieuport 17 [Big Radials]
 bksq-aircraft-analogcaravan=Cessna C208B Grand Caravan | Steam Gauge Analog Overhaul [Black Square]
 bksq-aircraft-analogkingair=Beechcraft King Air 350 | Steam Gauge Analog Overhaul [Black Square]
 bksq-aircraft-velocityxl=Velocity XL [Black Square]
+BlackbirdSims_DHC2_Bush=de Havilland Canada DHC-2 Beaver [Blackbird Simulations / MilViz]
 BlackbirdSims_DHC2_Floats=de Havilland Canada DHC-2 Beaver [Blackbird Simulations / MilViz]
 BlackbirdSims_DHC2_Wheels=de Havilland Canada DHC-2 Beaver [Blackbird Simulations / MilViz]
 blackbox-aircraft-BN-Islander-CARGO=BN2 Islander [BlackBox Simulation]

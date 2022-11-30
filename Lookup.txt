@@ -1,4 +1,4 @@
-#Aircraft Database Version=0133
+#Aircraft Database Version=0134
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 A10=Fairchild Republic A-10a Thunderbolt II [MScenery]
@@ -1156,8 +1156,8 @@ flysimware_Cessna_414AW=Cessna 414A [FlySimWare]
 Flysimware_Grumman_G44A=Grumman G44A Widgeon [Flysimware]
 Flysimware_Grumman_G44A_N722=Grumman G44A Widgeon [Flysimware]
 Flysimware_Grumman_G44A_ZK-AVM=Grumman G44A Widgeon [Flysimware]
-FNX320=Airbus A320-200 [Fenix Simulations]
 fnx320=Airbus A320-200 [Fenix Simulations]
+FNX320=Airbus A320-200 [Fenix Simulations]
 Fokker D.21 1938=Fokker D.21 [Dutcheeseblend]
 FokkerDR1=Fokker DR.1 [Mykrode]
 Fouga_Magister=Fouga CM.170 Magister [AzurPoly]

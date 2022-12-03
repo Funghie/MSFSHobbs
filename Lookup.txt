@@ -1,4 +1,4 @@
-#Aircraft Database Version=0135
+#Aircraft Database Version=0136
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 A10=Fairchild Republic A-10a Thunderbolt II [MScenery]
@@ -1716,6 +1716,7 @@ Vcolemb175_aircraft=Embraer EMB 170/175 Series [Virtualcol FS Software]
 Vcolemb190_aircraft=Embraer EMB 190/195 Series [Virtualcol FS Software]
 Vcolemb195_aircraft=Embraer EMB 190/195 Series [Virtualcol FS Software]
 VGP_PowerSolo=PowerSTOL [VGP]
+visionjet=Cirrus SF50 Vision Jet G2 [FlightFX]
 vought crusader=Vought Crusader F8-E [Roland Laborie]
 VRGO_USCG=Vertigo [Got Gravel]
 WA_TruckPreview_Large_3axle_chassis=Oshkosh Striker 6x6 ARFF Fire Truck | Motor Vehicle [WombiiActual]

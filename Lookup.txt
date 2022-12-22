@@ -1,4 +1,4 @@
-#Aircraft Database Version=0140
+#Aircraft Database Version=0141
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
 9NAIU=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 A10=Fairchild Republic A-10a Thunderbolt II [MScenery]
@@ -1489,6 +1489,7 @@ Milviz_PC6_Analog_Tundra=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 Milviz_PC6_Analog_Wheels=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 Milviz_PC6_D-FOGO=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 Milviz_PC6_Glass_Tundra=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
+Milviz_PC6_Glass_Wheels=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 Milviz_PC6_India_VT-JSM=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 Milviz_PC6_Tundra=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 Mitsubishi_PAJERO=Mitsubishi Pajero | Motor Vehicle [MrFace]

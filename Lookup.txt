@@ -1,4 +1,4 @@
-#Aircraft Database Version=0164
+#Aircraft Database Version=0165
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
@@ -1268,6 +1268,7 @@ FR_L-4H_Grasshopper_air_observation=Piper L-4 Grasshopper [Flight Replicas]
 FR_L-4H_Grasshopper_liaison=Piper L-4 Grasshopper [Flight Replicas]
 fsreborn-sting-s4=TL-Ultralight Sting S4 [FSReborn]
 FSS_SeaRey=Searey Elite Amphibian LSA [FlightSim Studio]
+FSS_Tecnam_P2006T=Tecnam P2006T [FlightSim Studio]
 FSX_Edgley Optica=EA-7 Edgley Optica [Brandon Yaeger]
 fulcrum=Gurevich MiG 29 Fulcrum [Deimos Inc]
 FW190_A4=Focke Wulf FW190-A4 [Fsadni]

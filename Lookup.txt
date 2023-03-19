@@ -1,4 +1,4 @@
-#Aircraft Database Version=0171
+#Aircraft Database Version=0172
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
@@ -942,8 +942,8 @@ blackbox-aircraft-cessna-birddog-amphib=Cessna L19 Bird Dog [BlackBox Simulation
 blackbox-aircraft-cessna-birddog-basic=Cessna L19 Bird Dog [BlackBox Simulation]
 blackbox-aircraft-cessna-birddog-bushplane=Cessna L19 Bird Dog [BlackBox Simulation]
 blackbox-aircraft-SA-Bulldog=Scottish Aviation Bulldog [BlackBox Simulation]
-blackbox-BN2-N7049T=BN2 Islander [BlackBox Simulation]
-blackbox-BN2-N7049TSH=BN2 Islander [BlackBox Simulation]
+blackbox-BN2-N7049T=Britten Norman BN2 Islander [BlackBox Simulation]
+blackbox-BN2-N7049TSH=Britten Norman BN2 Islander [BlackBox Simulation]
 BLACK_RED=CubCrafters X Cub | Bush [CarbonProp]
 BLUE=Zlin & Gravel Savage Carbon [Got Gravel]
 bluemesh-aircraft-hydro-ultralight=Amphibious Hydro Ultralight [BlueMesh]

@@ -1,4 +1,4 @@
-#Aircraft Database Version=0173
+#Aircraft Database Version=0172
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
@@ -1944,4 +1944,3 @@ ZKMCT=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 ZKXIT=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 ZSPCS Clean=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 ZSPCS=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
-ZZZZZZ Test Update Script

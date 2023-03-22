@@ -1,4 +1,4 @@
-#Aircraft Database Version=0172
+#Aircraft Database Version=0173
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
@@ -1716,7 +1716,7 @@ PINEGREENCLASSIC=CubCrafters X Cub [Asobo]
 Piper_J3Cub=Piper J3C-65 Cub [Flight Replicas]
 Pirate_DA40ng=Diamond DA40 [Asobo]
 pitts-dastardly=Aviat Pitts Special S2S [Asobo]
-PJ-SXM=BN2 Britten Norman BN2 Islander [BlackBox Simulation]
+PJ-SXM=Britten Norman BN2 Islander [BlackBox Simulation]
 PKVVP=Pilatus PC-6 Porter [Blackbird Simulations / MilViz]
 PMDG 737-600=Boeing 737-600 [PMDG]
 PMDG 737-700=Boeing 737-700 [PMDG]

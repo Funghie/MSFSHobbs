@@ -1,4 +1,4 @@
-#Aircraft Database Version=0175
+#Aircraft Database Version=0176
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
@@ -908,6 +908,9 @@ BigRadial-aircraft-P40B=Curtiss P-40B Tomahawk [Big Radials]
 bigradials-aircraft-goose-ski=JRF-6 Grumman Goose [Big Radials]
 bigradials-aircraft-goose=JRF-6 Grumman Goose [Big Radials]
 bigradials-aircraft-n17=Nieuport 17 [Big Radials]
+bksq-aircraft-analogbaron-livery-example=Beechcraft Baron B58 | Steam Gauge Analog Overhaul [Black Square]
+bksq-aircraft-analogbaron=Beechcraft Baron B58 | Steam Gauge Analog Overhaul [Black Square]
+bksq-aircraft-analogbaronturbo=Beechcraft Baron B58 | Steam Gauge Analog Overhaul [Black Square]
 bksq-aircraft-analogbonanza-livery-example=Beechcraft Bonanza A36 | Steam Gauge Analog Overhaul [Black Square]
 bksq-aircraft-analogbonanza=Beechcraft Bonanza A36 | Steam Gauge Analog Overhaul [Black Square]
 bksq-aircraft-analogbonanzatanks=Beechcraft Bonanza A36 | Steam Gauge Analog Overhaul [Black Square]

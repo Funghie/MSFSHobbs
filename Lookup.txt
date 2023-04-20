@@ -1,4 +1,4 @@
-#Aircraft Database Version=0186
+#Aircraft Database Version=0187
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
@@ -1319,6 +1319,7 @@ gl6t=Bombardier Global 6000 [giba720]
 GL6T=Bombardier Global 6000 [giba720]
 GlideSimmer67_Schleicher_K7=Schleicher K7 Rhönadler | Glider [GlideSimmer67]
 GlideSimmer_Schleicher_K7=Schleicher K7 | Glider [GlideSimmer67]
+gotfriends-astro-one=Astro ONE | Rotorcraft [Got Friends]
 gotfriends-discus2c-fes=Schempp-Hirth Discus 2c | Glider [Got Friends]
 gotfriends-discus2c=Schempp-Hirth Discus 2c | Glider [Got Friends]
 gotfriends-gb-r3-pc=Gee Bee R3 Special [Got Friends]

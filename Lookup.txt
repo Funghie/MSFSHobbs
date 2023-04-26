@@ -1,4 +1,4 @@
-#Aircraft Database Version=0188
+#Aircraft Database Version=0189
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
@@ -1600,8 +1600,8 @@ Microsoft_Antonov2_Floats=Antonov An-2 [Microsoft]
 Microsoft_Antonov2_Skies=Antonov An-2 [Microsoft]
 Microsoft_Antonov2_Wheels=Antonov An-2 [Microsoft]
 Microsoft_Antonov2_Wheels_New=Antonov An-2 [Microsoft]
-Microsoft_ATR_42_600=ATR 600 Series [Asobo / Hans Hartmann]
-Microsoft_ATR_72_600=ATR 600 Series [Asobo / Hans Hartmann]
+Microsoft_ATR_42_600=ATR 600 Series [Microsoft / Hans Hartmann]
+Microsoft_ATR_72_600=ATR 600 Series [Microsoft / Hans Hartmann]
 Microsoft_Dornier_DoJ_Cabina=Dornier Do J Wal [Microsoft]
 Microsoft_Dornier_DoJ_N25=Dornier Do J Wal [Microsoft]
 Microsoft_Dornier_DoJ_PlusUltra=Dornier Do J Wal [Microsoft]

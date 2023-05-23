@@ -1,4 +1,4 @@
-#Aircraft Database Version=0194
+#Aircraft Database Version=0195
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
@@ -981,6 +981,7 @@ Breezer_Sport_Project=Breezer Sport [Thomas Lauterjung]
 BREITLING=CubCrafters X Cub [Asobo]
 Brown-B2-Racer=Brown B-2 Air Racer [sal1800]
 BRsimDesigns_B35B33=Beechcraft Debonair 35 [BRSim Designs]
+BRsimDesigns_EMB121=Embraer EMB121A1-Xingu II [BRSim Designs]
 BRsimDesigns_emb200=EMB200 Ipanema Crop Duster [BRSim Designs]
 BRsimDesigns_ERCO415=ERCO Ercoupe 415C [BRSim Designs]
 BRsimDesigns_H35=Beechcraft Bonanza H35 V-Tail [BRSim Designs]

@@ -1,4 +1,4 @@
-#Aircraft Database Version=0217
+#Aircraft Database Version=0218
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
@@ -1978,6 +1978,7 @@ T45C_Mk51_camo=McDonnell Douglas T-45 Goshawk [IndiaFoxtEcho]
 Taog_AlouetteIII=Aérospatiale Alouette III | Rotorcraft [Taog's Hangar]
 Taog_AlouetteIII_Floats=Aérospatiale Alouette III | Rotorcraft [Taog's Hangar]
 TAXICUB=CubCrafters X Cub [Asobo]
+TBD=Douglas TBD Devastator [Fsadni]
 TBM 930 GrayBlueBlack=Daher TBM-930 [Asobo]
 TBM 930 GrayPinkBlack=Daher TBM-930 [Asobo]
 TBM 930 GrayRedBlack=Daher TBM-930 [Asobo]

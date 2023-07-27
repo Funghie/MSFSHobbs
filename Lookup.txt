@@ -1,4 +1,4 @@
-#Aircraft Database Version=0223
+#Aircraft Database Version=0224
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
@@ -176,6 +176,7 @@ antsairplanes-drifter-a-582-floats=Austflight Drifter 582 [Ant's Airplanes]
 antsairplanes-drifter-a-582=Austflight Drifter 582 [Ant's Airplanes]
 antsairplanes-tiger-moth=de Havilland Tiger Moth [Ant's Airplanes]
 APEX=Vertigo [Got Gravel]
+arantisaviation-aircraft-Bonanza-G36TN=Beechcraft Bonanza G36 [Asobo]
 AS 33 18m Aircraft=Alexander Schleicher AS-33me | Glider [MADoloSimulations]
 AS-33=Alexander Schleicher AS-33me | Glider [MADoloSimulations]
 Asobo-C172SP-AS1000-Red_Silver_floats=Cessna 172 Sykhawk [Asobo]

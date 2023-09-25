@@ -1,4 +1,4 @@
-#Aircraft Database Version=0233
+#Aircraft Database Version=0234
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]
@@ -2082,6 +2082,7 @@ wedell-williams-model-44=Wedell-Williams Model 44 [sal1800]
 Wedell-Williams-Racer-Modern=Wedell-Williams Model 44 [sal1800]
 Wedell-Williams-Racer=Wedell-Williams Model 44 [sal1800]
 WHITEKNIGHT=Zlin & Gravel Savage Carbon [Got Gravel]
+windshear=Cessna Citation Longitude [Asobo]
 wing42-boeing-247d=Boeing 247D [Wing42]
 wing42_bleriot_xi=Bleriot XI [Wing42]
 wing42_bleriot_xi_gnome=Bleriot XI [Wing42]

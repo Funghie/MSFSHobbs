@@ -1,4 +1,4 @@
-!#Aircraft Database Version=0238
+#Aircraft Database Version=0238
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
 1_Carenado_C170B-N2962D=Cessna C170B [Carenado]

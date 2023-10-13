@@ -1,4 +1,4 @@
-#Aircraft Database Version=0240
+#Aircraft Database Version=0239
 13TOOTHLESS=UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIRCRAFT AND DEVELOPER [Unknown]
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]

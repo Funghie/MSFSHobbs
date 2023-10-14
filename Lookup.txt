@@ -1,4 +1,4 @@
-#Aircraft Database Version=0241
+#Aircraft Database Version=0242
 13TOOTHLESS=13TOOTHLESS is UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIRCRAFT AND DEVELOPER [Unknown]
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
@@ -2182,7 +2182,7 @@ WOLF_ORANGE-TUNDRA-CARGO=WOLF_ORANGE-TUNDRA-CARGO is UNKNOWN | PLEASE EMAIL US (
 WOLF_WHITE-TUNDRA-CARGO=WOLF_WHITE-TUNDRA-CARGO is UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIRCRAFT AND DEVELOPER [Unknown]
 WOLF_YELLOW-TUNDRA-CARGO=WOLF_YELLOW-TUNDRA-CARGO is UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIRCRAFT AND DEVELOPER [Unknown]
 WP-3D_2020=Lockheed WP-3D Hurricane Hunters [Team FS KBT]
-WP-3D_2020_v1.347=WP-3D_2020_v1.347 is UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIRCRAFT AND DEVELOPER [Unknown]
+WP-3D_2020_v1.347==Lockheed WP-3D Hurricane Hunters [Team FS KBT]
 wright-flyer=Wright Flyer [Flight Sim Squadron]
 WYMF5_N5KY=Waco YMF5 [Carenado]
 WYVERN-TUNDRA-CARGO=CubCrafters X Cub [Asobo]

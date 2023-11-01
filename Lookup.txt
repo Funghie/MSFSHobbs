@@ -1,4 +1,4 @@
-#Aircraft Database Version=0246
+#Aircraft Database Version=0247
 13TOOTHLESS=13TOOTHLESS is UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIRCRAFT AND DEVELOPER [Unknown]
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
@@ -1554,6 +1554,8 @@ hpg-airbus-h145-mil=Airbus H145 | Rotorcraft [Hype Performance Group]
 hpg-airbus-h145-milcargo=Airbus H145 | Rotorcraft [Hype Performance Group]
 hpg-airbus-h145-offshore=Airbus H145 | Rotorcraft [Hype Performance Group]
 hpg-airbus-h145=Airbus H145 | Rotorcraft [Hype Performance Group]
+hpg-airbus-h160-civ=Airbus H160 | Rotorcraft [Hype Performance Group]
+hpg-airbus-h160=Airbus H160 | Rotorcraft [Hype Performance Group]
 hpg-hotair-balloon=Hot Air Balloon [Hype Performance Group]
 HPG_H145_REVYN112_ADAC_CHX_1=Airbus H145 | Rotorcraft [Hype Performance Group]
 HPG_H145_REVYN112_ADAC_CHX_77=Airbus H145 | Rotorcraft [Hype Performance Group]

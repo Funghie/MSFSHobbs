@@ -1,4 +1,4 @@
-#Aircraft Database Version=0256
+#Aircraft Database Version=0257
 13TOOTHLESS=13TOOTHLESS is UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIRCRAFT AND DEVELOPER [Unknown]
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
@@ -1690,7 +1690,9 @@ Just Flight Fokker F28-1000=Fokker F28 Fellowship Series [Just Flight]
 Just Flight Fokker F28-2000=Fokker F28 Fellowship Series [Just Flight]
 Just Flight Fokker F28-3000=Fokker F28 Fellowship Series [Just Flight]
 Just Flight Fokker F28-4000=Fokker F28 Fellowship Series [Just Flight]
+Just Flight Vulcan 200=Avro Vulcan B Mk. 2 / K.2 / MRR [Just Flight]
 Just Flight Vulcan 202=Avro Vulcan B Mk. 2 / K.2 / MRR [Just Flight]
+Just Flight Vulcan 301=Avro Vulcan B Mk. 2 / K.2 / MRR [Just Flight]
 JW1=Jetpack JW1 SkyTraveler | Wingsuit [Touching Cloud]
 ka10m=Kamov Ka-10M | Rotorcraft [Touching Cloud]
 KawasakiBK117=Kawasaki BK-117 | Rotorcraft [MScenery]

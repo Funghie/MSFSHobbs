@@ -1,4 +1,4 @@
-#Aircraft Database Version=0261
+#Aircraft Database Version=0262
 13TOOTHLESS=13TOOTHLESS is UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIRCRAFT AND DEVELOPER [Unknown]
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
@@ -2263,8 +2263,10 @@ SWS_Kodiak_gear=Quest (Daher) Kodiak 100 [SimWorks Studios]
 SWS_Kodiak_gear_CP=Quest (Daher) Kodiak 100 [SimWorks Studios]
 SWS_Kodiak_tundra=Quest (Daher) Kodiak 100 [SimWorks Studios]
 SWS_Kodiak_tundra_CP=Quest (Daher) Kodiak 100 [SimWorks Studios]
+SWS_Pilatus_PC12_4B=Pilatus PC-12 [SimWorks Studios]
 SWS_Pilatus_PC12_4B_C=Pilatus PC-12 [SimWorks Studios]
 SWS_Pilatus_PC12_5B=Pilatus PC-12 [SimWorks Studios]
+SWS_Pilatus_PC12_5B_C=Pilatus PC-12 [SimWorks Studios]
 SWS_Vans_RV10=Vans RV-10 [SimWorks Studios]
 SWS_Vans_RV14=Vans RV-14/14A [SimWorks Studios]
 SWS_Vans_RV14A=Vans RV-14/14A [SimWorks Studios]

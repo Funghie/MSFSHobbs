@@ -1,4 +1,4 @@
-#Aircraft Database Version=0263
+#Aircraft Database Version=0264
 13TOOTHLESS=13TOOTHLESS is UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIRCRAFT AND DEVELOPER [Unknown]
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
@@ -1684,6 +1684,7 @@ IMS_KingAir350-RFDSV2=Beechcraft King Air 350i [Asobo]
 IMS_TBM930-RFDSTBM=Daher TBM-930 [Asobo]
 Indestructible=Zlin & Gravel Savage Grravel [Got Gravel]
 IndiaFoxtEcho_F14A=F-14A/B Tomcat [Heatblur / IndiaFoxtEcho]
+IndiaFoxtEcho_F14B=F-14A/B Tomcat [Heatblur / IndiaFoxtEcho]
 IndiaFoxtEcho_F35A=Lockheed Martin F-35 [IndiaFoxtEcho]
 IndiaFoxtEcho_F35B=Lockheed Martin F-35 [IndiaFoxtEcho]
 IndiaFoxtEcho_F35C=Lockheed Martin F-35 [IndiaFoxtEcho]

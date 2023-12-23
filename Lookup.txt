@@ -1,4 +1,4 @@
-#Aircraft Database Version=0265
+#Aircraft Database Version=0266
 13TOOTHLESS=13TOOTHLESS is UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIRCRAFT AND DEVELOPER [Unknown]
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
@@ -1963,7 +1963,9 @@ MRF1CR=Dassault Mirage F1 MRF1 [faf_Alex]
 MRF1CT=Dassault Mirage F1 MRF1 [faf_Alex]
 MRLN=CubCrafters X Cub | Bush [CarbonProp]
 MSCarenado_C195_Businessliner=Cessna 195 Businessliner [Microsoft]
+MSCarenado_C207_Stationair_II=Cessna T207A Turbo Stationair [Microsoft / Carenado]
 MSCarenado_C207_Stationair_II_Cargo=Cessna T207A Turbo Stationair [Microsoft / Carenado]
+MSCarenado_C207_Stationair_II_SkyDive=Cessna T207A Turbo Stationair [Microsoft / Carenado]
 MSCarenado_D17_Staggerwing=Beechcraft Model 17 Staggerwing [Carenado]
 MSCarenado_D18S=Beechcraft Model D18S Twin Beech [Microsoft]
 MSCarenado_GeeBee_R2=Gee Bee R2 [Carenado]

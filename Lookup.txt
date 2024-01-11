@@ -1,4 +1,4 @@
-#Aircraft Database Version=0271
+#Aircraft Database Version=0272
 13TOOTHLESS=13TOOTHLESS is UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIRCRAFT AND DEVELOPER [Unknown]
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
@@ -2216,6 +2216,7 @@ SDA=SDA is UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIR
 SH60=Sikorsky UH-60M | Rotorcraft [DeltaSimulations / Destroyer121]
 SHARK-TUNDRA=CubCrafters X Cub | Bush [CarbonProp]
 SHARK=CubCrafters X Cub | Bush [CarbonProp]
+Shrike_530F=MD 530F | Rotorcraft [Shrike / Blackbird Simulations]
 Shrike_PA30=Piper PA-30 Twin Comanche [Shrike Simulations]
 Sikorsky_S16=Sikorsky S-16 [Fsadni]
 Simaddons_Cars=Simaddons_Cars is UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIRCRAFT AND DEVELOPER [Unknown]

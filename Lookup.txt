@@ -1,4 +1,4 @@
-#Aircraft Database Version=0281
+#Aircraft Database Version=0282
 13TOOTHLESS=13TOOTHLESS is UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIRCRAFT AND DEVELOPER [Unknown]
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
@@ -2115,6 +2115,7 @@ Parorng_DR250TD=Robin DR250-160 Capitaine [Parorng]
 Passion2Fly_Letov_S_328_Floats=Letov S-328 [Passion2Fly]
 pc21=Pilatus PC-21 [Deimos Inc]
 pesim-maule-m7235=Maule M7-235 [Pilot Experience Simulation]
+pesim-maule-m7235_float=Maule M7-235 [Pilot Experience Simulation]
 pesim-maule-m7235_tundra=Maule M7-235 [Pilot Experience Simulation]
 phenom-100=Embraer Phenom 100 [Redneck23]
 Phm-A321-200=Airbus A321 [Project Mega Pack]

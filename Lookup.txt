@@ -1,4 +1,4 @@
-#Aircraft Database Version=0282
+#Aircraft Database Version=0283
 13TOOTHLESS=13TOOTHLESS is UNKNOWN | PLEASE EMAIL US (hourshobbs@gmail.com) IF YOU KNOW THIS AIRCRAFT AND DEVELOPER [Unknown]
 152-bushrats=Cessna 152 [Asobo]
 172-bushrats=Cessna 172 Sykhawk [Asobo]
@@ -2234,6 +2234,7 @@ RSP R44 Island Hoppers=Robinson R44 | Rotorcraft [Rotorsim Pilot]
 RUSTBUCKET=Zlin & Gravel Savage Carbon [Got Gravel]
 RUSTYMETAL=CubCrafters X Cub [Asobo]
 Rutan_Boomerang=Rutan Model 202 Boomerang [Technotech]
+RV4=Vans RV-4 [Deejing]
 RV7-gauges=Vans RV-7/RV-7A [Deejing]
 RV7=Vans RV-7/RV-7A [Deejing]
 RV7A-gauges=Vans RV-7/RV-7A [Deejing]
